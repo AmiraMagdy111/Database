@@ -1,0 +1,5 @@
+{"id": "sensor1", "gas": 0.5, "fire": 0}
+{"id": "sensor2", "gas": 0.3, "fire": 1}
+{"id": "sensor1", "gas": 0.7, "fire": 0}
+{"id": "sensor2", "gas": 0.4, "fire": 0}
+{"id": "sensor1", "gas": 0.6, "fire": 1} 
